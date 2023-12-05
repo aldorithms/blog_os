@@ -1,5 +1,6 @@
 [package]
 name = "blog_os"
+authors = ["Aldo A. Avalos <99375833+aldorithms@users.noreply.github.com>"]
 version = "0.1.0"
 edition = "2018"
 
